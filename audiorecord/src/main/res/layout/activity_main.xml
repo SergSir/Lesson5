@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="157dp"
         android:layout_height="89dp"
-        android:text="студент №18 по списку, группа БСБО-06-21"
+        android:text="студент №14 по списку, группа БСБО-06-21"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
